@@ -1,0 +1,81 @@
+\contentsline {chapter}{\numberline {第 1 章}序論}{1}
+\contentsline {section}{\numberline {1.1}背景}{1}
+\contentsline {section}{\numberline {1.2}IoTデータ市場に関する問題}{2}
+\contentsline {section}{\numberline {1.3}背景}{}
+\contentsline {section}{\numberline {1.4}本論文の構成}{2}
+\contentsline {chapter}{\numberline {第 2 章}背景と問題意識}{7}
+\contentsline {section}{\numberline {2.1}背景}{7}
+\contentsline {subsection}{\numberline {2.1.1}IoTデータ市場}{7}
+\contentsline {subsection}{\numberline {2.1.2}ブロックチェーン技術}{8}
+\contentsline {section}{\numberline {2.2}IoTデータ市場に関する問題}{11}
+\contentsline {subsection}{\numberline {2.2.1}政治的な問題}{11}
+\contentsline {subsection}{\numberline {2.2.2}技術的な問題}{12}
+\contentsline {section}{\numberline {2.3}まとめ}{15}
+\contentsline {chapter}{\numberline {第 3 章}ブロックチェーン技術}{17}
+\contentsline {section}{\numberline {3.1}仕組み}{17}
+\contentsline {subsection}{\numberline {3.1.1}暗号技術と署名}{17}
+\contentsline {subsection}{\numberline {3.1.2}トランザクション}{17}
+\contentsline {subsection}{\numberline {3.1.3}ブロック}{17}
+\contentsline {subsection}{\numberline {3.1.4}マイニング}{17}
+\contentsline {subsection}{\numberline {3.1.5}改竄可能性}{17}
+\contentsline {section}{\numberline {3.2}問題点}{19}
+\contentsline {subsection}{\numberline {3.2.1}現行の管理体制}{20}
+\contentsline {subsection}{\numberline {3.2.2}犯罪への利用}{21}
+\contentsline {subsection}{\numberline {3.2.3}取引の公開性}{20}
+\contentsline {subsection}{\numberline {3.2.4}スケーラビリティ}{21}
+\contentsline {section}{\numberline {3.3}オフチェーン技術}{21}
+\contentsline {section}{\numberline {3.4}Bitcoin}{21}
+\contentsline {section}{\numberline {3.5}Ethereum}{21}
+\contentsline {subsection}{\numberline {3.5.1}チューリング完全}{20}
+\contentsline {subsection}{\numberline {3.5.2}スマートコントラクト}{21}
+\contentsline {subsection}{\numberline {3.5.3}Solidity}{20}
+\contentsline {subsection}{\numberline {3.5.4}μRaiden}{21}
+\contentsline {section}{\numberline {3.6}Augur}{21}
+\contentsline {section}{\numberline {3.7}まとめ}{21}
+\contentsline {chapter}{\numberline {第 4 章}提案するIoTデータ市場, MIWWG}{23}
+\contentsline {section}{\numberline {4.1} 市場の要件}{23}
+\contentsline {subsection}{\numberline {4.1.1}中央集権組織の非存在}{17}
+\contentsline {subsection}{\numberline {4.1.2}データの売買}{17}
+\contentsline {subsection}{\numberline {4.1.3}大量なIoTデータの処理}{17}
+\contentsline {subsection}{\numberline {4.1.4}売買方法の決定可能}{17}
+\contentsline {subsection}{\numberline {4.1.5}各ステークホルダからの見え方}{17}
+\contentsline {section}{\numberline {4.2}取引のプロセス}{23}
+\contentsline {subsection}{\numberline {4.2.1}データ陳列}{23}
+\contentsline {subsection}{\numberline {4.2.2}取引開始}{23}
+\contentsline {subsection}{\numberline {4.2.3}データ販売とデータ転送}{24}
+\contentsline {subsection}{\numberline {4.2.4}満期による取引終了}{23}
+\contentsline {subsection}{\numberline {4.2.5}中断による取引終了}{24}
+\contentsline {section}{\numberline {4.3}まとめ}{29}
+\contentsline {chapter}{\numberline {第 5 章}設計と実装}{35}
+\contentsline {section}{\numberline {5.1}設計}{35}
+\contentsline {subsection}{\numberline {5.1.1}メッセージングシステム}{35}
+\contentsline {subsection}{\numberline {5.1.2}ブロックチェーン技術}{36}
+\contentsline {subsection}{\numberline {5.1.3}システム構成 }{37}
+\contentsline {section}{\numberline {5.2}実装}{40}
+\contentsline {subsection}{\numberline {5.2.1}kafka}{40}
+\contentsline {subsection}{\numberline {5.2.2}Ethereum}{40}
+\contentsline {subsection}{\numberline {5.2.3}μRaiden}{40}
+\contentsline {subsection}{\numberline {5.2.4}システム構成}{41}
+\contentsline {chapter}{\numberline {第 6 章}評価}{56}
+\contentsline {section}{\numberline {6.1}評価方針}{56}
+\contentsline {subsection}{\numberline {6.1.1}耐久性}{17}
+\contentsline {subsection}{\numberline {6.1.2}売買方法の決定可能性}{17}
+\contentsline {section}{\numberline {6.2}評価方針}{56}
+\contentsline {subsection}{\numberline {6.2.1}処理したトランザクションの数}{17}
+\contentsline {subsection}{\numberline {6.2.2}トランザクション内のμRaidenの処理能力}{17}
+\contentsline {section}{\numberline {6.3}売買方法の決定可能性}{56}
+\contentsline {subsection}{\numberline {6.3.1}理論上, 決定可能な項目}{17}
+\contentsline {subsection}{\numberline {6.3.2}MIWWGにおいて, 決定可能な項目}{17}
+\contentsline {section}{\numberline {6.4}考察}{56}
+\contentsline {chapter}{\numberline {第 7 章}今後の展望}{56}
+\contentsline {section}{\numberline {7.1}市場の問題点とその対策}{56}
+\contentsline {subsection}{\numberline {7.1.1}データの横流しへの対応}{17}
+\contentsline {subsection}{\numberline {7.1.2}取引の公開性}{17}
+\contentsline {section}{\numberline {7.2}ブロックチェーン技術}{56}
+\contentsline {subsection}{\numberline {7.2.1}plasma}{17}
+\contentsline {subsection}{\numberline {7.2.2}Raiden}{17}
+\contentsline {subsection}{\numberline {7.2.3}Casper}{17}
+\contentsline {subsection}{\numberline {7.2.4}Sharing}{17}
+\contentsline {section}{\numberline {7.3}IoTデータ市場以外のIoT市場}{56}
+\contentsline {subsection}{\numberline {7.3.1}IoT機器へのアクチュエーション}{17}
+\contentsline {chapter}{\numberline {第 8 章}結論}{56}
