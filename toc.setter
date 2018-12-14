@@ -1,13 +1,16 @@
 \contentsline {chapter}{\numberline {第 1 章}序論}{1}
 \contentsline {section}{\numberline {1.1}背景}{1}
 \contentsline {section}{\numberline {1.2}IoTデータ市場に関する問題}{2}
-\contentsline {section}{\numberline {1.3}背景}{}
+\contentsline {section}{\numberline {1.3}目的とアプローチ}{}
 \contentsline {section}{\numberline {1.4}本論文の構成}{2}
 \contentsline {chapter}{\numberline {第 2 章}背景と問題意識}{7}
 \contentsline {section}{\numberline {2.1}背景}{7}
-\contentsline {subsection}{\numberline {2.1.1}IoTデータ市場}{7}
-\contentsline {subsection}{\numberline {2.1.2}ブロックチェーン技術}{8}
+\contentsline {subsection}{\numberline {2.1.1}IoT}{7}
+\contentsline {subsection}{\numberline {2.1.2}IoTデータ市場}{7}
+\contentsline {subsection}{\numberline {2.1.3}ブロックチェーン技術}{8}
 \contentsline {section}{\numberline {2.2}IoTデータ市場に関する問題}{11}
+\contentsline {subsection}{\numberline {2.2.1}政治的な問題}{11}
+\contentsline {subsection}{\numberline {2.2.2}技術的な問題}{12}
 \contentsline {section}{\numberline {2.3}まとめ}{15}
 \contentsline {chapter}{\numberline {第 3 章}ブロックチェーン技術}{17}
 \contentsline {section}{\numberline {3.1}仕組み}{17}
