@@ -14,25 +14,26 @@
 \contentsline {section}{\numberline {2.3}まとめ}{15}
 \contentsline {chapter}{\numberline {第 3 章}ブロックチェーン技術}{17}
 \contentsline {section}{\numberline {3.1}仕組み}{17}
-\contentsline {subsection}{\numberline {3.1.1}暗号技術と署名}{17}
-\contentsline {subsection}{\numberline {3.1.2}トランザクション}{17}
-\contentsline {subsection}{\numberline {3.1.3}ブロック}{17}
-\contentsline {subsection}{\numberline {3.1.4}マイニング}{17}
-\contentsline {subsection}{\numberline {3.1.5}改竄可能性}{17}
+\contentsline {subsection}{\numberline {3.1.1}P2P通信}{17}
+\contentsline {subsection}{\numberline {3.1.2}デジタル署名とアドレス}{17}
+\contentsline {subsection}{\numberline {3.1.3}トランザクション}{17}
+\contentsline {subsection}{\numberline {3.1.4}ブロックとマイニング}{17}
 \contentsline {section}{\numberline {3.2}問題点}{19}
-\contentsline {subsection}{\numberline {3.2.1}現行の管理体制}{20}
-\contentsline {subsection}{\numberline {3.2.2}犯罪への利用}{21}
-\contentsline {subsection}{\numberline {3.2.3}取引の公開性}{20}
-\contentsline {subsection}{\numberline {3.2.4}スケーラビリティ}{21}
+\contentsline {subsection}{\numberline {3.2.1}スケーラビリティ}{20}
+\contentsline {subsection}{\numberline {3.2.2}手数料とマイクロペイメント}{21}
+\contentsline {subsection}{\numberline {3.2.3}マイナーの一極集中}{20}
+\contentsline {subsection}{\numberline {3.2.4}現在のOSSブロックチェーンの運営}{21}
 \contentsline {section}{\numberline {3.3}オフチェーン技術}{21}
 \contentsline {section}{\numberline {3.4}Bitcoin}{21}
+\contentsline {subsection}{\numberline {3.4.1}トランザクションベースの一元管理}{21}
+\contentsline {subsection}{\numberline {3.4.2}script言語とチューリング不完全}{21}
+\contentsline {subsection}{\numberline {3.4.3}ペイメントチャネル}{21}
 \contentsline {section}{\numberline {3.5}Ethereum}{21}
-\contentsline {subsection}{\numberline {3.5.1}チューリング完全}{20}
+\contentsline {subsection}{\numberline {3.5.1}トランザクションベースとアカウントベースの二元管理}{20}
 \contentsline {subsection}{\numberline {3.5.2}スマートコントラクト}{21}
-\contentsline {subsection}{\numberline {3.5.3}Solidity}{20}
+\contentsline {subsection}{\numberline {3.5.3}solidityとチューリング完全}{20}
 \contentsline {subsection}{\numberline {3.5.4}μRaiden}{21}
-\contentsline {section}{\numberline {3.6}Augur}{21}
-\contentsline {section}{\numberline {3.7}まとめ}{21}
+\contentsline {section}{\numberline {3.6}まとめ}{21}
 \contentsline {chapter}{\numberline {第 4 章}MIWWG:支配者の存在しないIoTデータ市場}{23}
 \contentsline {section}{\numberline {4.1} 市場の要件}{23}
 \contentsline {subsection}{\numberline {4.1.1}中央集権組織の非存在}{17}
