@@ -38,9 +38,9 @@
 \contentsline {section}{\numberline {4.1} 市場の要件}{23}
 \contentsline {subsection}{\numberline {4.1.1}中央集権組織の非存在}{17}
 \contentsline {subsection}{\numberline {4.1.2}データの売買}{17}
-\contentsline {subsection}{\numberline {4.1.3}大量なIoTデータの処理}{17}
-\contentsline {subsection}{\numberline {4.1.4}売買方法の決定可能}{17}
-\contentsline {subsection}{\numberline {4.1.5}各ステークホルダからの見え方}{17}
+\contentsline {subsection}{\numberline {4.1.3}売買方法の決定可能}{17}
+\contentsline {subsection}{\numberline {4.1.4}大量なIoTデータの処理}{17}
+\contentsline {subsection}{\numberline {4.1.5}売買するIoTデータの秘匿}{17}
 \contentsline {section}{\numberline {4.2}取引のプロセス}{23}
 \contentsline {subsection}{\numberline {4.2.1}データ陳列}{23}
 \contentsline {subsection}{\numberline {4.2.2}取引開始}{23}
